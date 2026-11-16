@@ -14,4 +14,4 @@ Subject: Mathematics
 Marks: 92
 
 Mobile Number: 9876543210
-Department: Computer Applications
+Department: Computer Applicationss
