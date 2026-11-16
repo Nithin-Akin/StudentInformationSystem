@@ -1,0 +1,16 @@
+STUDENT INFORMATION SYSTEM
+
+Personal Details
+Name: Nithin
+Register Number: 2341648
+Course: BCA
+
+Parents Details
+Father's Name: Sathya
+Father's Occupation: Business
+
+Academic Details
+Subject: Mathematics
+Marks: 92
+
+Mobile Number: 9876543210
